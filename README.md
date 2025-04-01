@@ -21,9 +21,9 @@ I'm a passionate developer who loves creating innovative solutions. I enjoy work
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronie-18&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronie-18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronie-18&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🌱 I'm currently learning
@@ -64,8 +64,8 @@ I'm a passionate developer who loves creating innovative solutions. I enjoy work
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ronie-18&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ronie-18?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-⭐️ From [YourUsername](https://github.com/yourusername) 
+⭐️ From [ronie-18](https://github.com/ronie-18) 
