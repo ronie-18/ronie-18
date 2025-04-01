@@ -44,13 +44,13 @@ I'm a passionate developer who loves creating innovative solutions. I enjoy work
 
 ## 📫 How to reach me
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rounakjana74@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rounak-jana-4408aa257/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourtwitter">
+  <a href="[https://twitter.com/yourtwitter](https://x.com/RounakJana18)">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
