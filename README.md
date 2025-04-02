@@ -29,8 +29,7 @@ I'm a passionate developer who loves creating innovative solutions. I enjoy work
 </div>
 
 ## 🌱 I'm currently learning
-- 🚀 Advanced React patterns and hooks
-- ☁️ Cloud technologies (AWS/Azure)
+- 🚀 Advanced React patterns
 - 🏗️ System design and architecture
 - 🔒 Cybersecurity fundamentals
 - 🎨 UI/UX design principles
